@@ -30,6 +30,6 @@ function multiply(num1, num2){
 * CodeBasic
 
 ### **_Languages_**
-* Russian
 * English
+* Russian
 
