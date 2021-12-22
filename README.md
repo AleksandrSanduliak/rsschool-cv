@@ -1,2 +1,2 @@
 # rsschool-cv
-https://AleksandrSanduliak.github.io/rsschool-cv-html/idex.html
+https://AleksandrSanduliak.github.io/rsschool-cv-html/index.html
