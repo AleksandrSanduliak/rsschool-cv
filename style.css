@@ -1,0 +1,16 @@
+.headerr{
+ border-radius: 40%;
+width: 300px;
+height: 300px;
+
+}
+
+.flexheader
+{
+display: inline-flex;
+}
+
+.flexmain{
+    display: flex;
+    flex-direction: row;
+}
